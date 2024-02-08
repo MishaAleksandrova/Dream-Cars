@@ -1,0 +1,17 @@
+body {
+    background-image:
+            url("img/chris-barbalis-9qlSGW_LgKs-unsplash.jpg");
+    width: 4692px;
+    height: 2346px;
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 6200px 3000px;
+    font-family: molle-italic, serif;
+}
+
+h1 {
+    text-align: right;
+    color: lightgray;
+    font-size: 500px;
+}
